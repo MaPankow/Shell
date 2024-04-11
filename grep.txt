@@ -1,9 +1,11 @@
+# Grep
+
+- Ein Befehl zum Durchsuchen von Text
+- Sehr sehr mächtig!
+
+# Aufgaben
+
 1. Überfliege das Handbuch zu grep.
 2. Benutze 'grep' um crawling.log nach "welt" zu durchsuchen.
 3. Benutze 'grep' um alle Zeilen in crawling.log auszugeben die "welt" nicht beinhalten.
 4. Der Ordner Linux-Quellcode enthält was er verspricht. Benutze 'grep', um herauszufinden an welchem Teil Ankita Garg mitgearbeitet hat. Das Ergebnis sollte eine Datei sein.
-
-Fortgeschrittene:
-5. Benutze 'grep' in Kombination mit Piping um ...
-
-

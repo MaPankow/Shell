@@ -7,9 +7,10 @@
 # Aufgaben
 
 1. Lies das Manual von 'ls' vollständig.
+2. Lies das Handbuch von 'chown' vollständig.
 2. Überfliege mittels 'man man' das Handbuch des Handbuchs.
 3. Suche mittels '/' im Handbuch des Handbuchs nach 'apropos'. Was macht das?
 
-# Fortgeschritte Aufgaben
+# Aufgaben für Mutige
 4. Suche mittels 'apropos' nach php. Was findest du? Ließ die man-pages der gefundenen Einträge.
 3. Lies das Handbuch von 'du'. Was macht das? Nutze das Handbuch von 'du', um eine sinnvolle Ausgabe zu erhalten.

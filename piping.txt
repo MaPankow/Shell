@@ -1,22 +1,19 @@
 
-
-
-
 # Piping
-
 - Der senkrechte Strich kann genutzt werden, um die Ausgabe eines
 Programmes in ein anderes umzuleiten.
 - Erlaubt "Datenverarbeitung": Erst erzeugen, dann sortieren, dann anzeigen, ....
+- Als letztes lohnt sich 'less', um ordentlich lesbaren Output zu erhalten.
 
 
 # Aufgaben
 1. Pipe den Befehl 'ls' nach 'wc'. Lies bei Bedarf nach, was 'wc' tut.
-2. Pipe den Befehl 'ls -l' nach 'sort'. Kannst du erahnen wie die Sortierung ist? Les im Hanbuch von sort nach, wie du nach Dateigröße sortieren könntest. 
+2. Pipe den Befehl 'ls -l' nach 'sort'. Kannst du erahnen wie die Sortierung ist? Les im Handbuch von 'sort' nach, wie du nach Dateigröße sortieren könntest. 
+3. Lies nach was 'uniq' tut. Nutze eine Kombination aus 'sort', 'uniq' und 'wc' um die Anzahl der einzigartigen Zeilen in "crawling.log" auszugeben. Tipp:
+Nutze Zwischenschritte und bau dir das Kommando Stück für Stück.
 
 
-# Fortgeschritte Aufgaben
+# Aufgaben für Mutige
 3. Uberfliege das Handbuch von 'journalctl'. Nutze piping und 'tail' um die letzten 10 Einträge anzuzeigen.
-2. Pipe den Befehl 'ls' durch 'grep' und suche mit Grep nach "aufgabe".
-3. Benutzt
 
 

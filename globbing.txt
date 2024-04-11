@@ -1,0 +1,20 @@
+
+
+# Globbing
+- Die Shell kann gewisse Muster "matchen" um viele Dateien anzusprechen.
+- Diese Muster sind:
+    * Beliebige Buchstaben
+    ? Genau ein Buchstabe
+    [a,c] Genau die Buchstaben in [,]
+    {Muster1,Muster2} Die Muster in {,}
+- Dies passiert bevor! das eigentliche Programm ausgeführt wird.
+
+
+# Aufgaben
+1. Wechsle in den Ordner Müll und erstelle einen Unterordner Eimer. (Benutze dafür 'cd' und 'mkdir')
+2. Bewege alle Dateien die auf .muell enden in den Unterordner. (Benutze dafür 'mv')
+3. Nutze 'mkdir' um die folgenden Ordner anzulegen: Aufgabe_1, Aufgabe_2, Aufgabe_3, Aufgabe_4.
+
+# Fortgeschritte Aufgaben
+4. Lies die Manpage zu 'zip'. Erstelle eine Zip-Datei von allen Muell-Dateien die mit 'e' beginnen. Tipp: Du kannst auch mit 'ls' beginnen
+um zu schauen ob du alle Dateien erwischst. Nutze 'unzip' um dein Ergebnis zu überprüfen.
