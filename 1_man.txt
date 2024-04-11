@@ -1,0 +1,3 @@
+- Die Shell liefert Handbücher mit
+- Aufruf mit 'man suchwort'
+

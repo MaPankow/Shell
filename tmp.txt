@@ -1,0 +1,35 @@
+
+
+function read(file):
+
+    reading ...
+    return data
+
+
+files = ['hallo', 'hallo2']
+
+for file in files:
+    read(file)
+
+
+
+function read_all_csv():
+
+
+function write_data(database, data):
+
+
+
+interface:
+
+    gr:zahl
+    gewicht: zahl
+    berechne(a,b)
+
+WasserFass implementiert interface:
+
+    volumen:zahl
+    berechne_volumen
+
+
+    

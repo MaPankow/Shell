@@ -1,0 +1,6 @@
+
+
+1. Schreibe 'echo hallo' in eine Datei und führ sie mittels bash aus.
+2. Führe 'bash' aus. Führe 'exit' aus. Was ist passiert?
+3.
+

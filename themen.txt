@@ -1,0 +1,5 @@
+
+
+
+1. Was ist bash? Was ist eine Shell? Wie können wir Dinge aus Dateien ausführen?
+2. Aliase
