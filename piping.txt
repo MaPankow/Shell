@@ -7,13 +7,14 @@ Programmes in ein anderes umzuleiten.
 
 
 # Aufgaben
-1. Pipe den Befehl 'ls' nach 'wc'. Lies bei Bedarf nach, was 'wc' tut.
+1. Pipe den Befehl 'ls' nach 'wc'. Lies bei Bedarf die Man-Pages von 'wc'.
 2. Pipe den Befehl 'ls -l' nach 'sort'. Kannst du erahnen wie die Sortierung ist? Les im Handbuch von 'sort' nach, wie du nach Dateigröße sortieren könntest. 
-3. Lies nach was 'uniq' tut. Nutze eine Kombination aus 'sort', 'uniq' und 'wc' um die Anzahl der einzigartigen Zeilen in "crawling.log" auszugeben. Tipp:
-Nutze Zwischenschritte und bau dir das Kommando Stück für Stück.
+3. Lies nach was 'git log' tut. Nutze 'git log' und 'head' um dir die ersten 10 Zeilen anzeigen zu lassen. Findest du in der Man-Page auch eine Lösung um dich auf die ersten 2 Commits zu beschränken?
 
 
 # Aufgaben für Mutige
+3. Lies nach was 'uniq' tut. Nutze eine Kombination aus 'sort', 'uniq' und 'wc' um die Anzahl der einzigartigen Zeilen in "crawling.log" auszugeben. Tipp:
+Nutze Zwischenschritte und bau dir das Kommando Stück für Stück.
 3. Uberfliege das Handbuch von 'journalctl'. Nutze piping und 'tail' um die letzten 10 Einträge anzuzeigen.
 
 

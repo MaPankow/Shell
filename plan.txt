@@ -1,6 +1,5 @@
 
 
-
 1: Was ist die Shell/Bash? (7 Min)
 2: Hilfe!? (20 Min)
 3: Mario gibt es auch in der Shell oder was es mit Piping auf sich hat (20 Min)

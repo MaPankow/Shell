@@ -16,4 +16,4 @@
 4. Überfliege das Handbuch von 'curl'.
 5. Nutze 'curl' um die Countries-Api anzusprechen.
 6. Nutze 'curl', um eine Request an deinen lokalen LAMPP-Server zu schicken.
-7. Lies das Handbuch von 'du'. Was macht das? Nutze das Handbuch von 'du', um eine sinnvolle Ausgabe zu erhalten.
+7. Lies das Handbuch von 'du'. Was macht 'du'? Nutze das Handbuch von 'du', um eine sinnvolle Ausgabe zu erhalten.
